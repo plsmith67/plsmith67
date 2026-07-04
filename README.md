@@ -1,42 +1,67 @@
-# Hi, I'm Phil Smith
+# Phillip L. Smith
 
-Applied AI Engineer focused on building machine learning and generative AI solutions that solve real business problems.
+Applied AI Engineer building machine learning and generative AI solutions for business and industrial operations.
 
-## Current Focus
+## About Me
 
-- Machine Learning
-- Generative AI
-- Retrieval-Augmented Generation
-- Computer Vision
-- FastAPI
-- AI for Telecom and Industrial Operations
+I design and build AI applications that solve real-world business problems using machine learning, retrieval-augmented generation (RAG), computer vision, and modern Python frameworks.
 
-## Featured Projects
+My background includes more than 25 years in wireless telecommunications and critical infrastructure, combined with hands-on experience developing AI applications from data exploration through deployment.
+
+## Current Portfolio
 
 ### House Price Prediction
-Regression model comparing Random Forest and XGBoost for residential property valuation.
+Regression analysis using Random Forest and XGBoost to predict residential property values.
 
-### Customer Churn Prediction
-Predicting customer attrition using supervised machine learning.
+**Technologies**
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Jupyter Notebook
 
-### Time Series Forecasting
-Business demand forecasting using modern forecasting techniques.
+---
 
-### CNN Image Classification
-Deep learning image classifier built with TensorFlow and Keras.
+## Currently Building
 
-### Enterprise RAG Knowledge Assistant
-Semantic search over enterprise documentation using embeddings and vector databases.
+- Customer Churn Prediction
+- Time Series Forecasting
+- CNN Image Classification
+- Enterprise RAG Knowledge Assistant
+- FastAPI AI Service
+- Telecom AI Analytics
 
-### FastAPI AI Service
-Production-ready REST API for serving machine learning models.
+## Technical Skills
 
-### Telecom AI
-AI-assisted operational decision support for wireless network operations.
+**Languages**
+- Python
+- SQL
 
-## Technologies
+**Machine Learning**
+- Scikit-learn
+- XGBoost
+- TensorFlow
+- Feature Engineering
+- Model Evaluation
 
-Python • Pandas • NumPy • Scikit-learn • XGBoost • TensorFlow • FastAPI • LangChain • Docker • Git • GitHub • SQL
+**Generative AI**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Prompt Engineering
+- Vector Databases
+
+**Backend**
+- FastAPI
+- REST APIs
+
+**Developer Tools**
+- Git
+- GitHub
+- Jupyter Notebook
+- Docker
 
 ## Connect
 
