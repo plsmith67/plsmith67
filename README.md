@@ -11,27 +11,11 @@ My background includes more than 25 years in wireless telecommunications and cri
 ## Current Portfolio
 
 ### House Price Prediction
-Regression analysis using Random Forest and XGBoost to predict residential property values.
 
-**Technologies**
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- XGBoost
-- Matplotlib
-- Jupyter Notebook
+Regression model comparing Random Forest and XGBoost to predict residential property values.
 
----
-
-## Currently Building
-
-- Customer Churn Prediction
-- Time Series Forecasting
-- CNN Image Classification
-- Enterprise RAG Knowledge Assistant
-- FastAPI AI Service
-- Telecom AI Analytics
+- GitHub Repository: https://github.com/plsmith67/house-price-prediction
+- Kaggle Notebook: https://www.kaggle.com/code/philliplsmith/house-price-prediction-with-xgboost
 
 ## Technical Skills
 
