@@ -10,17 +10,20 @@ My background includes more than 25 years in wireless telecommunications and cri
 
 ## Current Portfolio
 
-### House Price Prediction
-
-Regression model comparing Random Forest and XGBoost to predict residential property values.
-
-- GitHub Repository: https://github.com/plsmith67/house-price-prediction
-- Kaggle Notebook: https://www.kaggle.com/code/philliplsmith/house-price-prediction-with-xgboost
+- GitHub Repository:
+- https://github.com/plsmith67/closed-loop-ran
+- https://github.com/plsmith67/5g-e2e-validation
+- https://github.com/plsmith67/telecom-oss-observability
+  
+- Kaggle Notebook:
+- https://www.kaggle.com/code/philliplsmith/house-price-prediction-with-xgboost
+- https://www.kaggle.com/code/philliplsmith/customer-churn-prediction-using-machine-learning
 
 ## Technical Skills
 
 **Languages**
 - Python
+- Java Script
 - SQL
 
 **Machine Learning**
