@@ -6,7 +6,7 @@ Applied AI Engineer building machine learning and generative AI solutions for bu
 
 I design and build AI applications that solve real-world business problems using machine learning, retrieval-augmented generation (RAG), computer vision, and modern Python frameworks.
 
-My background includes more than 25 years in wireless telecommunications and critical infrastructure, combined with hands-on experience developing AI applications from data exploration through deployment.
+My background includes more than 15+ years in 3G/4G/5G RAN and critical infrastructure, combined with hands-on experience developing AI applications from data exploration through deployment.
 
 ## Current Portfolio
 
